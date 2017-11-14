@@ -2,6 +2,6 @@ module.exports = function(app, db) {
     app.get('/currency', (req, res) => {
         console.log('CALLED');
         res.type('json')
-        res.send('{"price": "397"}');
+        res.send('{"rates": "CAD;397.05|USD;201.13"}');
       });
 };
