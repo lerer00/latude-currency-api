@@ -19,8 +19,7 @@
   "homepage": "https://github.com/lerer00/latude-currency-api#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mongodb": "^2.2.33"
+    "express": "^4.16.2"
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
